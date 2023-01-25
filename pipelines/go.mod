@@ -15,7 +15,7 @@ require (
 	go.opentelemetry.io/otel/metric v0.23.0
 	go.opentelemetry.io/otel/sdk v1.0.0
 	go.opentelemetry.io/otel/sdk/metric v0.23.0
-	google.golang.org/grpc v1.40.0
+	google.golang.org/grpc v1.52.1
 )
 
 require (
@@ -24,7 +24,5 @@ require (
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/shirou/gopsutil v3.21.5+incompatible // indirect
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
-	google.golang.org/genproto v0.0.0-20210312152112-fc591d9ea70f // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
